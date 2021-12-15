@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: react-redux-realworld-example-app
     source:
-      location: 'https://github.com/che-samples/nodejs-react-redux'
+      location: 'https://github.com/dkwon17/nodejs-react-redux'
       type: git
 components:
   - id: vscode/typescript-language-features/latest
