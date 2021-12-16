@@ -11,6 +11,7 @@ const Banner = ({ appName, token }) => {
           {appName.toLowerCase()}
         </h1>
         <p>A place to share your knowledge. Welcome!</p>
+        <p>Hello world!</p>
       </div>
     </div>
   );
