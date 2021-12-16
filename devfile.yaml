@@ -7,7 +7,7 @@ projects:
       location: 'https://github.com/dkwon17/nodejs-react-redux'
       type: git
 components:
-  - id: github/vscode-pull-request-github/latest
+  - id: ms-vscode/vscode-github-pullrequest/latest
     type: chePlugin
   - id: vscode/typescript-language-features/latest
     type: chePlugin
