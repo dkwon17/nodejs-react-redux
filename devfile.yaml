@@ -7,6 +7,8 @@ projects:
       location: 'https://github.com/dkwon17/nodejs-react-redux'
       type: git
 components:
+  - id: github/vscode-pull-request-github/latest
+    type: chePlugin
   - id: vscode/typescript-language-features/latest
     type: chePlugin
     registryUrl: 'https://eclipse-che.github.io/che-plugin-registry/7.38.0/v3/'
